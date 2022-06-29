@@ -5,9 +5,7 @@ import dateutil
 from dateutil.parser import *
 import constants
 
-# Canvas API URL
 API_URL = constants.API_URL
-# Canvas API key
 CANVAS_TOKEN = constants.CANVAS_TOKEN
 NOTION_TOKEN = constants.NOTION_TOKEN
 NOTION_DB_ID = constants.NOTION_DB_ID
